@@ -1,0 +1,11 @@
+.addStyle{
+    background: rgba(241, 237, 237, 0.31);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2.9px);
+    -webkit-backdrop-filter: blur(2.9px);
+    border: 1px solid rgba(241, 237, 237, 0.13);
+}
+.sideColor{
+    color: #757575 !important;
+}

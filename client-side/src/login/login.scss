@@ -1,0 +1,18 @@
+.mystyle-auth {
+  background-image: url("../../public/assets/alquds.jpg");
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  width: 100vw;
+  background-size:  cover;
+  .card {
+    background: rgba(241, 237, 237, 0.31);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2.9px);
+    -webkit-backdrop-filter: blur(2.9px);
+    border: 1px solid rgba(241, 237, 237, 0.13);
+  }
+}

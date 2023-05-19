@@ -1,0 +1,25 @@
+.Nav_divs__x2kCr {
+  background: rgba(255, 255, 255, 0.49);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  z-index: 100;
+}
+
+.xx {
+  background: black;
+}
+@media screen and (max-width: 600px) {
+  .edit {
+    height: 35px;
+    width: 35px;
+  }
+  .divs {
+    padding: 15px 5px !important;
+  }
+}
+
+.edit {
+  height: 80px;
+  width: 80px;
+}

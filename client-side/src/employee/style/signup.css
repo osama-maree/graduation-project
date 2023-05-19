@@ -1,0 +1,62 @@
+.submit {
+  --bs-btn-border-color: none !important;
+}
+.card-style {
+  background-color: rgb(156, 115, 93) !important;
+  color: white;
+}
+.immstyle {
+  object-fit: cover;
+  height: 90vh;
+  width: 100%;
+}
+.myStyle {
+  background-color: white !important;
+  z-index: 111;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  position: relative;
+}
+.bgstyle {
+  background-color: rgb(205, 197, 193) !important;
+  border-radius: 0 !important;
+}
+.clip {
+  z-index: 20;
+  height: 40rem;
+  width: 30rem;
+  position: absolute;
+  background-color: rgb(205, 197, 193);
+  opacity: 40%;
+  left: 50%;
+  transform: translateX(-50%);
+
+  clip-path: ellipse(25% 40% at 50% 50%);
+}
+.styleT {
+  /* From https://css.glass */
+  background: rgba(185, 183, 183, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(185, 183, 183, 0.3);
+  padding: 3.3rem 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  background: #ffefba; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffffff,
+    #ffefba
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffffff,
+    #ffefba
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

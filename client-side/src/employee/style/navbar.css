@@ -1,0 +1,46 @@
+.liStyle {
+  border: 1px solid gray;
+}
+@media screen and (max-width: 999px) {
+  .smallSize {
+    display: none;
+  }
+  .liStyle {
+    border: none;
+  }
+}
+.disabled-icona {
+  opacity: 0.5 !important;
+  pointer-events: none !important;
+}
+.navColor {
+  background-color: rgb(25, 118, 210) !important;
+  color: white !important;
+}
+.myImg {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+}
+.dropColor {
+  color: #757575;
+}
+
+@media screen and (max-width: 990px) {
+  .maxWidth {
+    width: 150px !important;
+  }
+}
+.maxWidthO {
+  margin-right: 2rem;
+  border: 1px white solid;
+}
+@media screen and (max-width: 990px) {
+  .maxWidthO {
+    margin: 0 !important;
+    border: none;
+  }
+}
+.navbar-toggler-icon {
+  color: white !important;
+}

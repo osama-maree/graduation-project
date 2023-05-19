@@ -1,0 +1,45 @@
+.mb-h6 {
+  border-bottom: 1px solid black;
+}
+
+ .spec-h3 {
+background-color: rgb(85,113,89);
+}
+.greenStyle{
+  background: rgb(13,110,253,.7);
+
+}
+
+.news{
+    border: 1px solid gray;
+   padding: .5rem;
+   margin-bottom: .5rem;
+}
+@media screen and (max-width:600px) {
+  .news{
+    border: none;
+  }
+  
+}
+/* .sty{
+ 
+opacity: 50%;
+
+} */
+.moveText{
+ overflow: hidden;
+    height: 70px;
+}
+.moving-text {
+  position: relative; /* Set the position of the text to relative */
+ animation: move-up 5s ease-in-out infinite alternate; /*Use the move-up animation with a duration of 5 seconds, easing function, and infinite loop */
+}
+
+@keyframes move-up {
+  0% {
+    top: 0; /* Set the starting position of the text to the bottom of the container */
+  }
+  100% {
+    top: 110%; /* Set the ending position of the text to the top of the container */
+  }
+}

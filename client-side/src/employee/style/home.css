@@ -1,0 +1,15 @@
+.style {
+    background-color: white !important;
+/* From https://css.glass */
+/* From https://css.glass */
+background: rgba(109, 103, 103, 0.67);
+/* border-radius: 16px; */
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(9.5px);
+-webkit-backdrop-filter: blur(9.5px);
+}
+.addimg{
+    background-image: url('../../../public/assets/lands.jpg');
+    background-size: cover;
+    height: 100vh - 70px;
+}

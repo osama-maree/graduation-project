@@ -1,0 +1,17 @@
+.borderBottom {
+  border-bottom: 2px solid green;
+}
+.dis {
+  cursor: not-allowed !important;
+  background-color: gray !important;
+  opacity: 40%;
+
+  color: white !important;
+}
+.dis:hover {
+  background-color: none;
+}
+.page-link {
+  border-top-left-radius: 0% !important;
+  border-bottom-left-radius: 0% !important;
+}

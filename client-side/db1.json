@@ -1,0 +1,3050 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    }
+  ],
+  "sale": [
+    {
+      "id": 1,
+      "kushan": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "saler": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "boughter": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "describ": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "municipal": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "money": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "contract": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    }
+  ],
+  "trans_sale": [
+    {
+      "Movement_type": "بيع",
+      "id": 1223,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    },
+    {
+      "Movement_type": "بيع",
+      "id": 1235,
+      "MoveDone": 0,
+      "state": "قيد المعالجة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    },
+    {
+      "Movement_type": "بيع",
+      "id": 1236,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    }
+  ],
+  "trans_inhert": [
+    {
+      "Movement_type": "حصر الارث",
+      "id": 1334,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    },
+    {
+      "Movement_type": "حصر الارث",
+      "id": 1335,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    },
+    {
+      "Movement_type": "حصر الارث",
+      "id": 1336,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    }
+  ],
+  "trans_sort": [
+    {
+      "Movement_type": "فرز",
+      "id": 1434,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    },
+    {
+      "Movement_type": "فرز",
+      "id": 1435,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    }
+  ],
+  "trans_mort": [
+    {
+      "Movement_type": "رهن",
+      "id": 1434,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    },
+    {
+      "Movement_type": "رهن",
+      "id": 1435,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    }
+  ],
+  "trans_freg": [
+    {
+      "Movement_type": "تجزئة",
+      "id": 1434,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    },
+    {
+      "Movement_type": "تجزئة",
+      "id": 1435,
+      "MoveDone": 0,
+      "state": "مقبولة",
+      "message": " يجب دفع الرسوم لاستكمال المعاملة"
+    }
+  ],
+  "lands": [
+    {
+      "land_id": 123,
+      "aquarium_Number": 15,
+      "piece_Number": 11,
+      "village_Name": "ميثلون",
+      "governorate_Name": " محافظة جنين"
+    },
+    {
+      "land_id": 133,
+      "aquarium_Number": 25,
+      "piece_Number": 15,
+      "village_Name": "ميثلون",
+      "governorate_Name": " محافظة جنين"
+    }
+  ],
+  "acceptSale": [
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 1223,
+      "userId": 12,
+      "type": "بيع",
+      "date": "20-11-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 1223,
+      "userId": 12,
+      "type": "بيع",
+      "date": "20-11-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 1223,
+      "userId": 12,
+      "type": "بيع",
+      "date": "20-11-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 1223,
+      "userId": 12,
+      "type": "بيع",
+      "date": "20-11-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 1223,
+      "userId": 12,
+      "type": "بيع",
+      "date": "20-11-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 123,
+      "userId": 11,
+      "type": "بيع",
+      "date": "20-10-2202",
+      "typeT": "حركات البيع المقبولة"
+    },
+    {
+      "number": 1223,
+      "userId": 12,
+      "type": "بيع",
+      "date": "20-11-2202",
+      "typeT": "حركات البيع المقبولة"
+    }
+  ],
+  "123": [
+    {
+      "Municipal_Clearance": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Movement_type": "حركة بيع",
+      "Photo_Seller_ID": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Contract_of_Sale": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Kushan": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Photo_Buer_ID": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Land_Describtion": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Financial_Clearance": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "feesDone": "false",
+      "MoveState": "1",
+      "state": "مقبولة"
+    }
+  ],
+  "1235": [
+    {
+      "Municipal_Clearance": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Movement_type": "حركة بيع",
+      "Photo_Seller_ID": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Contract_of_Sale": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Kushan": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Photo_Buer_ID": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Land_Describtion": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Financial_Clearance": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "feesDone": "false",
+      "MoveState": "1",
+      "state":"قيد المعالجة"
+    }
+  ],
+  "999111000": [
+    {
+      "ID": 999111000,
+      "Name": "محمد خالد احمد انعيرات",
+      "Date_of_birth": "15/3/2001",
+      "Plase_of_Birth": "جنين",
+      "image_citizen": "https://svgsilh.com/svg_v2/156584.svg",
+      "password": "12212",
+      "phoneNumber": 122334
+    }
+  ],
+  "foreigen_123456": [
+    {
+      "ID": 123456,
+      "Photo": "https://png.pngtree.com/png-vector/20190806/ourlarge/pngtree-business-document-file-paper-presentation-flat-color-icon-ve-png-image_1652047.jpg"
+    }
+  ],
+  "tax_123456": [
+    {
+      "ID": 123456,
+      "Financial_Clearance": "https://th.bing.com/th/id/OIP.uzIZ8wbqhkqVo0Afg-ZL6QHaEK?w=333&h=187&c=7&r=0&o=5&pid=1.7"
+    }
+  ],
+  "sharia_123456": [
+    {
+      "User_ID": "123456",
+      "Limiting_a_Legacy": "https://www.bing.com/ck/a?!&&p=1de9e4e4b4919f47JmltdHM9MTY4MTYwMzIwMCZpZ3VpZD0yMTg1ZjAxOC1mY2ZkLTYzYTctMDFjYy1mZGJiZmQxMTYyMWYmaW5zaWQ9NTM4Mg&ptn=3&hsh=3&fclid=2185f018-fcfd-63a7-01cc-fdbbfd11621f&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZXMmaWQ9RDA1QTU0MTFFQTY0QjRDNUNDOTc0MjU4QkE1MDUyQzU2ODkwODkyNSZGT1JNPUlRRlJCQQ&ntb=1",
+      "Contract_of_Sale": "https://www.bing.com/ck/a?!&&p=1de9e4e4b4919f47JmltdHM9MTY4MTYwMzIwMCZpZ3VpZD0yMTg1ZjAxOC1mY2ZkLTYzYTctMDFjYy1mZGJiZmQxMTYyMWYmaW5zaWQ9NTM4Mg&ptn=3&hsh=3&fclid=2185f018-fcfd-63a7-01cc-fdbbfd11621f&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZXMmaWQ9RDA1QTU0MTFFQTY0QjRDNUNDOTc0MjU4QkE1MDUyQzU2ODkwODkyNSZGT1JNPUlRRlJCQQ&ntb=1"
+    }
+  ]
+}

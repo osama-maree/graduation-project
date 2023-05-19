@@ -1,0 +1,9 @@
+.dropstart .dropdown-toggle::before {
+  display: none !important;
+}
+.whiteColor{
+  background-color: white !important;
+}
+.dropdown-menu.show{
+  z-index: 10 !important;
+}
