@@ -174,6 +174,11 @@ And so on for all of these movements
 
 > Employee
 
+- Home page
+
+![screencapture-localhost-3001-homeEmployee-2023-06-22-16_55_33](https://github.com/osama-maree/graduation-project/assets/108696087/280aefc1-1d4f-492e-b8c7-73c0d69c8ea7)
+
+
 
 
 
