@@ -6,8 +6,6 @@
   <p>This is a paragraph in HTML.</p>
   <ul>
     <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
   </ul>
 </div>
 First of all, we would like to thank God Almighty for giving us the opportunity and guidance to achieving our goal and to be successful in this part. Then we would like to thank our families for their upbringing of and their tireless efforts and support in every path we take to achieve our dreams and goals.
