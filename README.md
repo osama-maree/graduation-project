@@ -54,15 +54,15 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
   ![Screenshot 2023-06-22 114605](https://github.com/osama-maree/graduation-project/assets/108696087/b7fa9ae4-7e52-4be8-9c53-fa8165860aeb)
 - User:
 > The system must provide the Citizen " User " with the ability to:
-  - Logging in to his account.
-  - Logging out of his account.
-  - Submitting of a land sale transaction.
-  - Submitting an Limiting a legacy transaction.
-  - Submitting a mortgage transaction.
-  - Submitting a land fragmentation transaction.
-  - Submitting a land sorting transaction.
-  - Know the status of the transaction submitted instantly.
-  - Inquire about his lands.
+   - Logging in to his account.
+   - Logging out of his account.
+   - Submitting of a land sale transaction.
+   - Submitting an Limiting a legacy transaction.
+   - Submitting a mortgage transaction.
+   - Submitting a land fragmentation transaction.
+   - Submitting a land sorting transaction.
+   - Know the status of the transaction submitted instantly.
+   - Inquire about his lands.
 
 
 
