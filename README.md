@@ -2,11 +2,9 @@
 # A Website for the Palestinian Tabou
 #### This document was submitted in fulfilment of the requirements for the " Graduation Project" course, during the academic year 2022 - 2023 (Second Semester). 
 <div>
-  <h2>This is an HTML heading</h2>
-  <p>This is a paragraph in HTML.</p>
-  <ul>
-    <li>Item 1</li>
-  </ul>
+<title>
+  Aa
+</title>
 </div>
 First of all, we would like to thank God Almighty for giving us the opportunity and guidance to achieving our goal and to be successful in this part. Then we would like to thank our families for their upbringing of and their tireless efforts and support in every path we take to achieve our dreams and goals.
 
