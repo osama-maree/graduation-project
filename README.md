@@ -38,12 +38,12 @@ We know that the project will go through a lot of changes in both functionality 
 2. Because most of us will be learning new frameworks for programming various parts of the project (i.e., front-end, back-end, etc...), So with time, we’ll get more familiar with these frameworks and therefore, find better and more efficient ways to solve problems and design a different approach for tackling these problems.
 3. Our desire to add a new feature or to remove one if found necessary.
 So, we wanted a development model that is flexible and easy to integrate changes with, and because of that, we decided to use an agile model which compared to other development models offers great advantages, to list some:
-❖ Agile is an incremental approach and each increment is delivered within a certain time interval and between these time intervals comes the opportunity to apply changes to the design, functionality, or logic if needed, unlike the waterfall model in which after the development starts you can’t change the design.
-❖ The way that agile works, it gives us and the client a working project within some time interval, and that project can be tested for bugs and given to people to use and give feedback and change some aspects in the next time interval, unlike other models that don’t provide a fully working product until the end of the development phase.
-❖ Agile divides the project into increments which makes it easier to design these increments, rather than designing a complex system in one phase.
-❖ Agile provides different models each one provides different techniques and tools to apply and achieve agile model principles, but in our case, we used the Scrum model, for the following reasons:
-- It is easy to use, mainly because it provides you with general guidelines to follow and it is up to you how to do them, which is easier than learning a new workflow.
-- Fast response to changes, where a new change can be easily added to the backlog, and therefore taken into consideration in the future plans.
+- Agile is an incremental approach and each increment is delivered within a certain time interval and between these time intervals comes the opportunity to apply changes to the design, functionality, or logic if needed, unlike the waterfall model in which after the development starts you can’t change the design.
+- The way that agile works, it gives us and the client a working project within some time interval, and that project can be tested for bugs and given to people to use and give feedback and change some aspects in the next time interval, unlike other models that don’t provide a fully working product until the end of the development phase.
+- Agile divides the project into increments which makes it easier to design these increments, rather than designing a complex system in one phase.
+- Agile provides different models each one provides different techniques and tools to apply and achieve agile model principles, but in our case, we used the Scrum model, for the following reasons:
+    - It is easy to use, mainly because it provides you with general guidelines to follow and it is up to you how to do them, which is easier than learning a new workflow.
+     - Fast response to changes, where a new change can be easily added to the backlog, and therefore taken into consideration in the future plans.
 
 
 For our project to be done, we plan to follow the Agile process model. Agile process model refers to a software development approach based on iterative development. We are planning to break project tasks into small iterations (scrums), where each scrum will take two weeks. The division of the entire project into scrums helps to minimize the project risk and to reduce the overall project delivery time requirements.
