@@ -45,8 +45,15 @@ So, we wanted a development model that is flexible and easy to integrate changes
     - It is easy to use, mainly because it provides you with general guidelines to follow and it is up to you how to do them, which is easier than learning a new workflow.
      - Fast response to changes, where a new change can be easily added to the backlog, and therefore taken into consideration in the future plans.
 
+![ssss](https://github.com/osama-maree/graduation-project/assets/108696087/44be14f1-d478-4b0a-855a-1d5f9186f1cc)
 
 For our project to be done, we plan to follow the Agile process model. Agile process model refers to a software development approach based on iterative development. We are planning to break project tasks into small iterations (scrums), where each scrum will take two weeks. The division of the entire project into scrums helps to minimize the project risk and to reduce the overall project delivery time requirements.
+
+### Functional Requirement
+- Example of The Organizational Structure (Land Registry):
+
+
+
 
 
 
