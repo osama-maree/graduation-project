@@ -116,6 +116,13 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 
 ![Screenshot 2023-06-22 123401](https://github.com/osama-maree/graduation-project/assets/108696087/c335bbff-4d2f-4ffb-ad94-93a7c4576af0)
 
+> User Page
+
+- Home Page
+
+![Screenshot 2023-06-22 124147](https://github.com/osama-maree/graduation-project/assets/108696087/cc476e02-1519-4424-8d4b-750854a2a5f2)
+
+
 
 
 
