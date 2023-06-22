@@ -122,6 +122,23 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 
 ![Screenshot 2023-06-22 124147](https://github.com/osama-maree/graduation-project/assets/108696087/cc476e02-1519-4424-8d4b-750854a2a5f2)
 
+- When you press the movement button, the following menu appears, and you can choose any operation you want to perform
+
+![Screenshot 2023-06-22 162253](https://github.com/osama-maree/graduation-project/assets/108696087/0af3999c-63eb-4536-8ec3-949077d5cd2b)
+
+- When clicking on the button to sell, all the details required for this transaction appear, as well as for the rest of the transactions
+
+![screencapture-localhost-3001-sale-2023-06-22-16_25_35](https://github.com/osama-maree/graduation-project/assets/108696087/c0d75471-9a05-4747-8e5e-25b63a06552a)
+![screencapture-localhost-3001-sorting-2023-06-22-16_27_35](https://github.com/osama-maree/graduation-project/assets/108696087/116db34b-a710-4577-910b-3ec432709c56)
+![screencapture-localhost-3001-fregmantation-2023-06-22-16_28_02](https://github.com/osama-maree/graduation-project/assets/108696087/9eebbd8b-c8fe-4c38-84b2-1741c6c4a80b)
+![screencapture-localhost-3001-mortgage-2023-06-22-16_28_50](https://github.com/osama-maree/graduation-project/assets/108696087/a16c158a-3b35-4a8f-a4d3-d5f694d8a39a)
+![screencapture-localhost-3001-inheretance-2023-06-22-16_29_15](https://github.com/osama-maree/graduation-project/assets/108696087/e27526f4-20b5-4270-a136-f49df8309bdf)
+
+
+
+
+
+
 
 
 
