@@ -24,6 +24,15 @@
 
 - At this stage, we are planning to complete a site through which you can complete transactions electronically as much as possible as much as possible by providing a smooth and simple user interface that allows the user to open a transaction such as selling, for example, and track it electronically and find out if there is a defect in this transaction immediately and know the defect and work to fix it as soon as possible to complete the procedures faster and less tired and effort.
 
+### OBJECTIVE
+
+1.	Building a website that keeps a record of transactions and citizens' rights and properties.
+2.	Ensure that the website is responsive and easy to handle.
+3.	Ensure data protection and preservation from damage and loss instead of papers.
+4.	Ensure that the site achieves its desired goal, which is to make it easier for citizens, save money and time, and reduce the burden.
+5.	The platform should be easy to navigate and use, even for individuals with limited technical knowledge or experience
+
+
 
 
 
