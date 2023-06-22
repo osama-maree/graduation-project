@@ -63,6 +63,33 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
    - Submitting a land sorting transaction.
    - Know the status of the transaction submitted instantly.
    - Inquire about his lands.
+> Employee:
+- The system must provide the employee with the ability to:
+  - Creating accounts for users – citizens.
+  - Modifying user data – citizens.
+  - Receiving and processing user-citizen transactions such as buying and selling, etc.
+  - Pay the transaction cost to complete it.
+  - Inquiry from the municipality about the clearance of the user - the citizen, the description of the land and the land plan.
+  - Inquiry from the Ministry of Interior about the personal data of the citizen.
+  - Inquiry from the Survey Department about the survey plan.
+  - Inquiry from the Sharia courts about Limiting a legacy and the sale contract.
+  - Inquiry from the Ministry of Foreign Affairs about limiting a legacy document.
+  - Receiving and processing the sale and purchase of land.
+  - Receiving and processing the land sorting transaction.
+  - Receiving and processing land fragmentation transactions.
+  - Receiving and processing a land mortgage transaction.
+  - Receiving and processing an Limiting a legacy transaction.
+> Admin:
+- The system should provide the manager with the ability to:
+  - Creating accounts for employees.
+  - Inquiry from the municipality about the clearance of the user - the citizen, the description of the land and the land plan.
+  - Inquiry from the Ministry of Interior about the personal data of the citizen.
+  - Inquiry from the Survey Department about the survey plan.
+  - Inquiry from the Sharia courts about Limiting a legacy and the sale contract.
+  - Inquiry from the Ministry of Foreign Affairs about Limiting a legacy document.
+  - Assign leave to an employee and freeze his account.
+  - Tracking employee's workflow.
+- I attached the analysis file on the right, you can view it.
 
 
 
