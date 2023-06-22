@@ -1,11 +1,15 @@
 ### graduation-project
 # A Website for the Palestinian Tabou
 #### This document was submitted in fulfilment of the requirements for the " Graduation Project" course, during the academic year 2022 - 2023 (Second Semester). 
-<html>
-   <head>
-     <title>Test</title>
-   </head>
-
+<div>
+  <h2>This is an HTML heading</h2>
+  <p>This is a paragraph in HTML.</p>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</div>
 First of all, we would like to thank God Almighty for giving us the opportunity and guidance to achieving our goal and to be successful in this part. Then we would like to thank our families for their upbringing of and their tireless efforts and support in every path we take to achieve our dreams and goals.
 
 We would like to express our special thanks to mentor Dr. Yousef Daraghma for his time and efforts he provided throughout the year. Your useful advice and suggestions were really helpful to us during the project’s completion. In this aspect, we are eternally grateful to you.
