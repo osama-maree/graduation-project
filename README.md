@@ -148,6 +148,38 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 
 And so on for all of these movements
 
+- When you press the الاستعلام عن button, the following menu appears, and you can choose any operation you want to perform
+
+![Screenshot 2023-06-22 164535](https://github.com/osama-maree/graduation-project/assets/108696087/8ed0ab6e-5c5b-4295-921f-e1aa00e9e303)
+
+- When you press the الاراضي button, the following page will appears
+
+![Screenshot 2023-06-22 164702](https://github.com/osama-maree/graduation-project/assets/108696087/ec2e18d9-3800-45fa-a934-5d1c5f426474)
+
+- When you press the سير المعاملات button, the following page will appears with all details for transactions
+
+![Screenshot 2023-06-22 164845](https://github.com/osama-maree/graduation-project/assets/108696087/7738f3b4-70de-4771-98b9-c240c4c0c07d)
+
+- When you press the حالة المعاملة button, the following page will appears, message from employee about transaction
+
+![Screenshot 2023-06-22 165006](https://github.com/osama-maree/graduation-project/assets/108696087/45dd5759-80aa-4fca-8b5f-007312134534)
+
+- If the status of the transaction is in progress, you can modify one of its details
+
+![Screenshot 2023-06-22 165222](https://github.com/osama-maree/graduation-project/assets/108696087/7b02ac27-5586-4e70-a463-b0251d7782bc)
+
+![screencapture-localhost-3001-user-mort-64655fd6fb33146f98273acc-2023-06-22-16_52_56](https://github.com/osama-maree/graduation-project/assets/108696087/f14de11a-d31c-46f1-82fc-a1e246e27ef9)
+
+![Screenshot 2023-06-22 165329](https://github.com/osama-maree/graduation-project/assets/108696087/9ea91c35-515e-4ff7-888d-0419b9e9b672)
+
+> Employee
+
+
+
+
+
+
+
 
 
 
