@@ -246,7 +246,7 @@ And so on for all of these movements
 
 - When clicking on the five transactions of all kinds, a drop-down list will appear with four options, and when clicking on any of them, the following will appear
 
-![Screenshot 2023-07-01 154803](https://github.com/osama-maree/graduation-project/assets/108696087/50c60346-9486-4dc3-9a63-f3acac8cca75)
+![Screenshot 2023-07-01 160437](https://github.com/osama-maree/graduation-project/assets/108696087/3fe5b634-d7cd-4244-b92e-3aa9d1cf5146)
 -
 
 ---
