@@ -1,3 +1,10 @@
+![Screenshot 2023-07-01 155146](https://github.com/osama-maree/graduation-project/assets/108696087/00dae1cd-a2b3-4c8f-ac49-ecb0a2824ae5)
+![Uploading Screenshot 2023-07-01 155203.png…]()
+![Uploading screencapture-localhost-3001-emp-sale-comp-6469bcc563cc15a2ac1e7666-2023-07-01-15_52_21.png…]()
+![Uploading Screenshot 2023-07-01 154803.png…]()
+![Uploading Screenshot 2023-07-01 154823.png…]()
+![Uploading Screenshot 2023-07-01 154905.png…]()
+![Uploading Screenshot 2023-07-01 154949.png…]()
 ### graduation-project
 # A Website for the Palestinian Tabou
 #### This document was submitted in fulfilment of the requirements for the " Graduation Project" course, during the academic year 2022 - 2023 (Second Semester). 
@@ -232,12 +239,21 @@ And so on for all of these movements
 ![Screenshot 2023-06-22 165329](https://github.com/osama-maree/graduation-project/assets/108696087/9ea91c35-515e-4ff7-888d-0419b9e9b672)
 -
 
+---
+
 > Employee
 
 - Home page
 
-![screencapture-localhost-3001-homeEmployee-2023-06-22-16_55_33](https://github.com/osama-maree/graduation-project/assets/108696087/280aefc1-1d4f-492e-b8c7-73c0d69c8ea7)
+![screencapture-localhost-3001-homeEmployee-2023-07-01-15_46_42](https://github.com/osama-maree/graduation-project/assets/108696087/5baaa19c-aed5-41ad-9cd9-79c75fdc3752)
 -
+
+---
+
+![Uploading Screenshot 2023-07-01 155029.png…]()
+![Uploading Screenshot 2023-07-01 155103.png…]()
+
+
 
 
 
