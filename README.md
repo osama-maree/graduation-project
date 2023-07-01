@@ -284,7 +284,7 @@ And so on for all of these movements
 
 --- 
 
-- شش
+- Here are all completed operations
 
 ![Screenshot 2023-07-01 155146](https://github.com/osama-maree/graduation-project/assets/108696087/5f09f238-67e0-491c-9d52-d854aeada0dc)
 -
