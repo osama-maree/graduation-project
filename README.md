@@ -200,7 +200,8 @@ And so on for all of these movements
 
 ---
 
-- When you click on View, the image appears or the file is downloaded 
+- When you click on View, the image appears or the file is downloaded
+ 
 ![screencapture-localhost-3001-user-mort-64655fd6fb33146f98273acc-2023-06-22-16_52_56](https://github.com/osama-maree/graduation-project/assets/108696087/f14de11a-d31c-46f1-82fc-a1e246e27ef9)
 
 ---
@@ -214,9 +215,7 @@ And so on for all of these movements
 - Home page
 
 ![screencapture-localhost-3001-homeEmployee-2023-06-22-16_55_33](https://github.com/osama-maree/graduation-project/assets/108696087/280aefc1-1d4f-492e-b8c7-73c0d69c8ea7)
-
----
-
+-
 
 
 
