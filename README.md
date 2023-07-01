@@ -265,36 +265,41 @@ And so on for all of these movements
 
 ---
 
-- Here is a list of accepted fees
-
-![Screenshot 2023-07-01 154949](https://github.com/osama-maree/graduation-project/assets/108696087/127b04d2-5a9f-4451-9fe9-b680d77c24ff)
+- Here is a list of accepted currencies and are ready to pay their fees
+  
+![Screenshot 2023-07-01 161926](https://github.com/osama-maree/graduation-project/assets/108696087/9c0e75e0-2c7b-41dd-8e9f-8f3354246e36)
 -
 
 ---
 
-- Here the confirmation of the operation will appear
+- When you click on the search icon, the transaction details appear 
 
 ![Screenshot 2023-07-01 155029](https://github.com/osama-maree/graduation-project/assets/108696087/98e9a5f1-bd66-4094-9ced-b3a286be6332)
 -
 
-- Here are all operations performed
+- Here the confirmation of the operation will appear
 
 ![Screenshot 2023-07-01 155103](https://github.com/osama-maree/graduation-project/assets/108696087/1a9c744e-d66c-486e-baa6-25873ed1f057)
 -
 
-- When you click on the search icon, the transaction details appear
+--- 
+
+- شش
 
 ![Screenshot 2023-07-01 155146](https://github.com/osama-maree/graduation-project/assets/108696087/5f09f238-67e0-491c-9d52-d854aeada0dc)
 -
 
-- When you click on View, the transaction details will appear
+- When you click on the search icon, the transaction details appear 
 
 ![Screenshot 2023-07-01 155203](https://github.com/osama-maree/graduation-project/assets/108696087/03b4fdca-c04c-46e5-bd00-b8446e2e762e)
 -
 
 ---
 
+- When you click on View, the transaction details will appear
+  
 ![screencapture-localhost-3001-emp-sale-comp-6469bcc563cc15a2ac1e7666-2023-07-01-15_52_21](https://github.com/osama-maree/graduation-project/assets/108696087/b4b80725-086b-4faa-bf01-f7069f2ae9cb)
+-
 
 
 
