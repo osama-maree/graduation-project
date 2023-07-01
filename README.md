@@ -1,3 +1,10 @@
+![Screenshot 2023-07-01 155103](https://github.com/osama-maree/graduation-project/assets/108696087/cc6d7d8f-f8ff-41c3-afb9-19f30899c5d1)
+![Uploading Screenshot 2023-07-01 155146.png…]()
+![Uploading Screenshot 2023-07-01 155203.png…]()
+![Uploading screencapture-localhost-3001-emp-sale-comp-6469bcc563cc15a2ac1e7666-2023-07-01-15_52_21.png…]()
+![Uploading Screenshot 2023-07-01 154803.png…]()
+![Uploading Screenshot 2023-07-01 154823.png…]()
+![Uploading Screenshot 2023-07-01 154905.png…]()
 ![Screenshot 2023-07-01 155146](https://github.com/osama-maree/graduation-project/assets/108696087/00dae1cd-a2b3-4c8f-ac49-ecb0a2824ae5)
 ![Uploading Screenshot 2023-07-01 155203.png…]()
 ![Uploading screencapture-localhost-3001-emp-sale-comp-6469bcc563cc15a2ac1e7666-2023-07-01-15_52_21.png…]()
@@ -250,12 +257,12 @@ And so on for all of these movements
 
 ---
 
+
+
+
+
+![Uploading Screenshot 2023-07-01 154949.png…]()
 ![Uploading Screenshot 2023-07-01 155029.png…]()
-![Uploading Screenshot 2023-07-01 155103.png…]()
-
-
-
-
 
 
 
