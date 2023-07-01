@@ -384,6 +384,50 @@ And so on for all of these movements
 
 ---
 
+- Here, vacations are given to employees or stopped
+
+![Screenshot 2023-07-01 215644](https://github.com/osama-maree/graduation-project/assets/108696087/831d7aa6-d01c-49bd-8f0f-5de614740cdb)
+-
+
+---
+
+- Here is the department staff workflow
+
+![Screenshot 2023-07-01 215813](https://github.com/osama-maree/graduation-project/assets/108696087/1281b24f-e254-476c-b751-0f266b066fa2)
+-
+
+- When pressing on one of the types
+  
+![Screenshot 2023-07-01 215832](https://github.com/osama-maree/graduation-project/assets/108696087/b819c723-cdc9-4984-97e1-c9cbef3955dc)
+-
+
+---
+
+- Here to count based on a specific condition
+  
+![Screenshot 2023-07-01 220005](https://github.com/osama-maree/graduation-project/assets/108696087/145f1088-1206-4dd0-8670-d4a3659f5b36)
+-
+
+---
+
+- Here to create an account for a new employee in the department
+  
+![Screenshot 2023-07-01 220056](https://github.com/osama-maree/graduation-project/assets/108696087/a9e91726-0da7-478a-a382-91b71b5c4bda)
+-
+
+---
+
+> Welcome to artificial intelligence
+   - Here you can check the correct or fake links through artificial intelligence
+
+![Screenshot 2023-07-01 220650](https://github.com/osama-maree/graduation-project/assets/108696087/c812fb54-8767-432a-96ff-4b136f32e4fe)
+-
+
+1. Fake link check
+   
+https://github.com/osama-maree/graduation-project/assets/108696087/9ae269b3-1790-47b7-a908-eebf63c124ff
+-
+
 
 
 
