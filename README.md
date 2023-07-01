@@ -310,6 +310,17 @@ And so on for all of these movements
 
 ---
 
+-- When inquiring from the various ministries
+ - The beginning of the inquiry from the Ministry of Interior about one of the citizens
+
+![screencapture-localhost-3001-employee-internal-2023-07-01-17_46_30](https://github.com/osama-maree/graduation-project/assets/108696087/1dfa4e69-227e-4e35-8115-237a4a3c27c7)
+![Screenshot 2023-07-01 174702](https://github.com/osama-maree/graduation-project/assets/108696087/53a63e65-930f-4936-8991-6dee645b1c70)
+-
+
+---
+
+
+
 
 
 
