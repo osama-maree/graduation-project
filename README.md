@@ -253,7 +253,7 @@ And so on for all of these movements
 
 - When you click on the search icon, all the details of this transaction appear, and the process of processing the transaction begins through from uncompleted transactions, and the following appears. If the transaction is accepted, it goes to the list of accepted transactions to pay the fees. If it is rejected, it goes to the rejected transactions.
 
-![Screenshot 2023-07-01 160437](https://github.com/osama-maree/graduation-project/assets/108696087/64b9a163-feb7-4971-83fb-a82e1ecb8f77)
+![Screenshot 2023-07-01 154823](https://github.com/osama-maree/graduation-project/assets/108696087/a3b54631-9b1f-461d-b1b0-b5d71e4dac51)
 -
 
 ---
