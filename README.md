@@ -1,17 +1,4 @@
-![Screenshot 2023-07-01 155103](https://github.com/osama-maree/graduation-project/assets/108696087/cc6d7d8f-f8ff-41c3-afb9-19f30899c5d1)
-![Uploading Screenshot 2023-07-01 155146.png…]()
-![Uploading Screenshot 2023-07-01 155203.png…]()
-![Uploading screencapture-localhost-3001-emp-sale-comp-6469bcc563cc15a2ac1e7666-2023-07-01-15_52_21.png…]()
-![Uploading Screenshot 2023-07-01 154803.png…]()
-![Uploading Screenshot 2023-07-01 154823.png…]()
-![Uploading Screenshot 2023-07-01 154905.png…]()
-![Screenshot 2023-07-01 155146](https://github.com/osama-maree/graduation-project/assets/108696087/00dae1cd-a2b3-4c8f-ac49-ecb0a2824ae5)
-![Uploading Screenshot 2023-07-01 155203.png…]()
-![Uploading screencapture-localhost-3001-emp-sale-comp-6469bcc563cc15a2ac1e7666-2023-07-01-15_52_21.png…]()
-![Uploading Screenshot 2023-07-01 154803.png…]()
-![Uploading Screenshot 2023-07-01 154823.png…]()
-![Uploading Screenshot 2023-07-01 154905.png…]()
-![Uploading Screenshot 2023-07-01 154949.png…]()
+
 ### graduation-project
 # A Website for the Palestinian Tabou
 #### This document was submitted in fulfilment of the requirements for the " Graduation Project" course, during the academic year 2022 - 2023 (Second Semester). 
@@ -257,16 +244,23 @@ And so on for all of these movements
 
 ---
 
+![Screenshot 2023-07-01 154803](https://github.com/osama-maree/graduation-project/assets/108696087/50c60346-9486-4dc3-9a63-f3acac8cca75)
 
+![Screenshot 2023-07-01 154823](https://github.com/osama-maree/graduation-project/assets/108696087/72546ee5-4b63-440b-af30-3ec4220c6a89)
 
+![Screenshot 2023-07-01 154905](https://github.com/osama-maree/graduation-project/assets/108696087/242ee152-1523-47ff-960c-6e77f650ad7f)
 
+![Screenshot 2023-07-01 154949](https://github.com/osama-maree/graduation-project/assets/108696087/127b04d2-5a9f-4451-9fe9-b680d77c24ff)
 
-![Uploading Screenshot 2023-07-01 154949.png…]()
-![Uploading Screenshot 2023-07-01 155029.png…]()
+![Screenshot 2023-07-01 155029](https://github.com/osama-maree/graduation-project/assets/108696087/98e9a5f1-bd66-4094-9ced-b3a286be6332)
 
+![Screenshot 2023-07-01 155103](https://github.com/osama-maree/graduation-project/assets/108696087/1a9c744e-d66c-486e-baa6-25873ed1f057)
 
+![Screenshot 2023-07-01 155146](https://github.com/osama-maree/graduation-project/assets/108696087/5f09f238-67e0-491c-9d52-d854aeada0dc)
 
+![Screenshot 2023-07-01 155203](https://github.com/osama-maree/graduation-project/assets/108696087/03b4fdca-c04c-46e5-bd00-b8446e2e762e)
 
+![screencapture-localhost-3001-emp-sale-comp-6469bcc563cc15a2ac1e7666-2023-07-01-15_52_21](https://github.com/osama-maree/graduation-project/assets/108696087/b4b80725-086b-4faa-bf01-f7069f2ae9cb)
 
 
 
