@@ -284,7 +284,7 @@ And so on for all of these movements
 
 --- 
 
-- Here are all completed operations
+- Here are all completed transactions
 
 ![Screenshot 2023-07-01 155146](https://github.com/osama-maree/graduation-project/assets/108696087/5f09f238-67e0-491c-9d52-d854aeada0dc)
 -
@@ -301,7 +301,14 @@ And so on for all of these movements
 ![screencapture-localhost-3001-emp-sale-comp-6469bcc563cc15a2ac1e7666-2023-07-01-15_52_21](https://github.com/osama-maree/graduation-project/assets/108696087/b4b80725-086b-4faa-bf01-f7069f2ae9cb)
 -
 
+---
 
+- Here are all rejected transactions
+
+![Screenshot 2023-07-01 162735](https://github.com/osama-maree/graduation-project/assets/108696087/9f8d45a5-a3b5-4a56-8061-a8a533b1d9bd)
+-
+
+---
 
 
 
