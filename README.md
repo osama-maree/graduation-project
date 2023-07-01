@@ -46,12 +46,15 @@ So, we wanted a development model that is flexible and easy to integrate changes
      - Fast response to changes, where a new change can be easily added to the backlog, and therefore taken into consideration in the future plans.
 
 ![ssss](https://github.com/osama-maree/graduation-project/assets/108696087/44be14f1-d478-4b0a-855a-1d5f9186f1cc)
+-
 
 For our project to be done, we plan to follow the Agile process model. Agile process model refers to a software development approach based on iterative development. We are planning to break project tasks into small iterations (scrums), where each scrum will take two weeks. The division of the entire project into scrums helps to minimize the project risk and to reduce the overall project delivery time requirements.
 
 ### Functional Requirement
 - Example of The Organizational Structure (Land Registry):
+
   ![Screenshot 2023-06-22 114605](https://github.com/osama-maree/graduation-project/assets/108696087/b7fa9ae4-7e52-4be8-9c53-fa8165860aeb)
+  --
 > User:
 - The system must provide the Citizen " User " with the ability to:
    - Logging in to his account.
@@ -94,12 +97,14 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 - Login page for different types from actor in our website
 
 ![Screenshot 2023-06-22 122625](https://github.com/osama-maree/graduation-project/assets/108696087/ab7fb595-2a26-4d3d-9ba9-dad8f9c95976)
+-
 
 ---
 
 - If you forget your password, you must enter your email to reset your password
 
 ![Screenshot 2023-06-22 123829](https://github.com/osama-maree/graduation-project/assets/108696087/59b0fdce-b2e2-4bc1-812a-e5bd0421ae06)
+-
 
 ---
 
@@ -107,24 +112,28 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
   
 ![Screenshot 2023-06-22 122910](https://github.com/osama-maree/graduation-project/assets/108696087/8108045e-2fa4-46b1-8855-2be8b63d93c4)
 ![Screenshot 2023-06-22 122956](https://github.com/osama-maree/graduation-project/assets/108696087/7cbc0d74-d7cd-42e8-b8ce-1522760bcd6a)
+-
 
 ---
 
 - You enter the code and the system will verify it
   
 ![Screenshot 2023-06-22 123037](https://github.com/osama-maree/graduation-project/assets/108696087/8425b941-f795-4f9c-8e8b-46ee8de3553d)
+-
 
 ---
 
 - If correct, the following screen will appear
   
 ![Screenshot 2023-06-22 123203](https://github.com/osama-maree/graduation-project/assets/108696087/51623b0d-5a34-4b1b-bac5-d909eb34d081)
+-
 
 ---
 
 - Here you can modify the password
 
 ![Screenshot 2023-06-22 123401](https://github.com/osama-maree/graduation-project/assets/108696087/c335bbff-4d2f-4ffb-ad94-93a7c4576af0)
+-
 
 ---
 
@@ -133,12 +142,14 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 - Home Page
 
 ![Screenshot 2023-06-22 124147](https://github.com/osama-maree/graduation-project/assets/108696087/cc476e02-1519-4424-8d4b-750854a2a5f2)
+-
 
 ---
 
 - When you press the movement button, the following menu appears, and you can choose any operation you want to perform
 
 ![Screenshot 2023-06-22 162253](https://github.com/osama-maree/graduation-project/assets/108696087/0af3999c-63eb-4536-8ec3-949077d5cd2b)
+-
 
 ---
 
@@ -149,24 +160,28 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 ![screencapture-localhost-3001-fregmantation-2023-06-22-16_28_02](https://github.com/osama-maree/graduation-project/assets/108696087/9eebbd8b-c8fe-4c38-84b2-1741c6c4a80b)
 ![screencapture-localhost-3001-mortgage-2023-06-22-16_28_50](https://github.com/osama-maree/graduation-project/assets/108696087/a16c158a-3b35-4a8f-a4d3-d5f694d8a39a)
 ![screencapture-localhost-3001-inheretance-2023-06-22-16_29_15](https://github.com/osama-maree/graduation-project/assets/108696087/e27526f4-20b5-4270-a136-f49df8309bdf)
+-
 
 ---
 
 - When filling in the data and pressing the submit button, the following appears
 
 ![Screenshot 2023-06-22 163227](https://github.com/osama-maree/graduation-project/assets/108696087/7a36f0b7-984e-4efa-a052-24b6f65531bc)
+-
 
 ---
 
 - When the data is filled in and the transaction is completed successfully, the following page appears
 
 ![screencapture-localhost-3001-inheretance-2023-06-22-16_33_30](https://github.com/osama-maree/graduation-project/assets/108696087/c26a4bef-a523-4420-95a7-1917d4151830)
+-
 
 ---
 
 - When you fill in the data and the operation fails, the following page appears
 
 ![screencapture-localhost-3001-sorting-2023-06-22-16_35_25](https://github.com/osama-maree/graduation-project/assets/108696087/b685a728-0065-4c88-a3f9-595797ac8ae3)
+-
 
 And so on for all of these movements
 
@@ -175,40 +190,47 @@ And so on for all of these movements
 - When you press the الاستعلام عن button, the following menu appears, and you can choose any operation you want to perform
 
 ![Screenshot 2023-06-22 164535](https://github.com/osama-maree/graduation-project/assets/108696087/8ed0ab6e-5c5b-4295-921f-e1aa00e9e303)
+-
 
 ---
 
 - When you press the الاراضي button, the following page will appears
 
 ![Screenshot 2023-06-22 164702](https://github.com/osama-maree/graduation-project/assets/108696087/ec2e18d9-3800-45fa-a934-5d1c5f426474)
+-
 
 - When you press the سير المعاملات button, the following page will appears with all details for transactions
 
 ![Screenshot 2023-06-22 164845](https://github.com/osama-maree/graduation-project/assets/108696087/7738f3b4-70de-4771-98b9-c240c4c0c07d)
+-
 
 ---
 
 - When you press the حالة المعاملة button, the following page will appears, message from employee about transaction
 
 ![Screenshot 2023-06-22 165006](https://github.com/osama-maree/graduation-project/assets/108696087/45dd5759-80aa-4fca-8b5f-007312134534)
+-
 
 ---
 
 - If the status of the transaction is in progress, you can modify one of its details
 
 ![Screenshot 2023-06-22 165222](https://github.com/osama-maree/graduation-project/assets/108696087/7b02ac27-5586-4e70-a463-b0251d7782bc)
+-
 
 ---
 
 - When you click on View, the image appears or the file is downloaded
  
 ![screencapture-localhost-3001-user-mort-64655fd6fb33146f98273acc-2023-06-22-16_52_56](https://github.com/osama-maree/graduation-project/assets/108696087/f14de11a-d31c-46f1-82fc-a1e246e27ef9)
+-
 
 ---
 
 - When you click on Edit, the following page appears
 
 ![Screenshot 2023-06-22 165329](https://github.com/osama-maree/graduation-project/assets/108696087/9ea91c35-515e-4ff7-888d-0419b9e9b672)
+-
 
 > Employee
 
