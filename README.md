@@ -429,15 +429,11 @@ https://github.com/osama-maree/graduation-project/assets/108696087/9ae269b3-1790
 -
 
 ---
----
 
 > Entity RelationShip
 
-![Entity RelationShip-Page-2 drawio](https://github.com/osama-maree/graduation-project/assets/108696087/bf1a428c-5bb9-4dce-a504-c7c4225d2038)
+![Entity RelationShip-Page-2 drawio (1)](https://github.com/osama-maree/graduation-project/assets/108696087/a8f845ea-8418-4646-aab8-6572e535dc0e)
 -
-
-
-
 
 
 
