@@ -133,9 +133,8 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 - Home Page
 
 ![Screenshot 2023-06-22 124147](https://github.com/osama-maree/graduation-project/assets/108696087/cc476e02-1519-4424-8d4b-750854a2a5f2)
----
 
-----
+-----
 
 - When you press the movement button, the following menu appears, and you can choose any operation you want to perform
 
