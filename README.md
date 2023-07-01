@@ -198,7 +198,14 @@ And so on for all of these movements
 
 ![Screenshot 2023-06-22 165222](https://github.com/osama-maree/graduation-project/assets/108696087/7b02ac27-5586-4e70-a463-b0251d7782bc)
 
+---
+
+- When you click on View, the image appears or the file is downloaded 
 ![screencapture-localhost-3001-user-mort-64655fd6fb33146f98273acc-2023-06-22-16_52_56](https://github.com/osama-maree/graduation-project/assets/108696087/f14de11a-d31c-46f1-82fc-a1e246e27ef9)
+
+---
+
+- When you click on Edit, the following page appears
 
 ![Screenshot 2023-06-22 165329](https://github.com/osama-maree/graduation-project/assets/108696087/9ea91c35-515e-4ff7-888d-0419b9e9b672)
 
