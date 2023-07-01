@@ -150,13 +150,19 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 ![screencapture-localhost-3001-mortgage-2023-06-22-16_28_50](https://github.com/osama-maree/graduation-project/assets/108696087/a16c158a-3b35-4a8f-a4d3-d5f694d8a39a)
 ![screencapture-localhost-3001-inheretance-2023-06-22-16_29_15](https://github.com/osama-maree/graduation-project/assets/108696087/e27526f4-20b5-4270-a136-f49df8309bdf)
 
+---
+
 - When filling in the data and pressing the submit button, the following appears
 
 ![Screenshot 2023-06-22 163227](https://github.com/osama-maree/graduation-project/assets/108696087/7a36f0b7-984e-4efa-a052-24b6f65531bc)
 
+---
+
 - When the data is filled in and the transaction is completed successfully, the following page appears
 
 ![screencapture-localhost-3001-inheretance-2023-06-22-16_33_30](https://github.com/osama-maree/graduation-project/assets/108696087/c26a4bef-a523-4420-95a7-1917d4151830)
+
+---
 
 - When you fill in the data and the operation fails, the following page appears
 
@@ -164,9 +170,13 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 
 And so on for all of these movements
 
+---
+
 - When you press the الاستعلام عن button, the following menu appears, and you can choose any operation you want to perform
 
 ![Screenshot 2023-06-22 164535](https://github.com/osama-maree/graduation-project/assets/108696087/8ed0ab6e-5c5b-4295-921f-e1aa00e9e303)
+
+---
 
 - When you press the الاراضي button, the following page will appears
 
@@ -176,9 +186,13 @@ And so on for all of these movements
 
 ![Screenshot 2023-06-22 164845](https://github.com/osama-maree/graduation-project/assets/108696087/7738f3b4-70de-4771-98b9-c240c4c0c07d)
 
+---
+
 - When you press the حالة المعاملة button, the following page will appears, message from employee about transaction
 
 ![Screenshot 2023-06-22 165006](https://github.com/osama-maree/graduation-project/assets/108696087/45dd5759-80aa-4fca-8b5f-007312134534)
+
+---
 
 - If the status of the transaction is in progress, you can modify one of its details
 
