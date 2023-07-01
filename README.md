@@ -134,11 +134,13 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 
 ![Screenshot 2023-06-22 124147](https://github.com/osama-maree/graduation-project/assets/108696087/cc476e02-1519-4424-8d4b-750854a2a5f2)
 
------
+---
 
 - When you press the movement button, the following menu appears, and you can choose any operation you want to perform
 
 ![Screenshot 2023-06-22 162253](https://github.com/osama-maree/graduation-project/assets/108696087/0af3999c-63eb-4536-8ec3-949077d5cd2b)
+
+---
 
 - When clicking on the button to sell, all the details required for this transaction appear, as well as for the rest of the transactions
 
