@@ -347,8 +347,6 @@ And so on for all of these movements
 ![Screenshot 2023-07-01 175536](https://github.com/osama-maree/graduation-project/assets/108696087/63e87f49-db61-4f2e-a7c9-19f33c537482)
 -
 
----
-
 2. Secondly, to inquire about a clearance
 
 ![Screenshot 2023-07-01 175732](https://github.com/osama-maree/graduation-project/assets/108696087/4e3bb2df-4c31-47ce-b67f-f7d1855eab75)
@@ -366,6 +364,25 @@ And so on for all of these movements
 - When inquiring from the Sharia Court
   
 ![Screenshot 2023-07-01 175851](https://github.com/osama-maree/graduation-project/assets/108696087/710d04ac-dadc-43c0-b9e7-a7a1477a25c3)
+-
+
+---
+
+- From the accounts button, you can create a new account for a citizen or modify data
+
+![Screenshot 2023-07-01 180405](https://github.com/osama-maree/graduation-project/assets/108696087/69aac108-f912-49fb-b835-c05c76e65409)
+-
+
+---
+
+1. First, you can create an account from here
+
+![Screenshot 2023-07-01 180638](https://github.com/osama-maree/graduation-project/assets/108696087/30a8992e-5b52-49e9-97f9-cf07b298866e)
+-
+
+2. Secondly here you can edit a citizen account
+
+![Screenshot 2023-07-01 180717](https://github.com/osama-maree/graduation-project/assets/108696087/f8ae3e07-c1cf-41f4-afe5-afeb5a85f060)
 -
 
 ---
