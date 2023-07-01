@@ -310,58 +310,48 @@ And so on for all of these movements
 
 ---
 
--- When inquiring from the various ministries
- - The beginning of the inquiry from the Ministry of Interior about one of the citizens
+- When inquiring from the various ministries
+ 1. The beginning of the inquiry from the Ministry of Interior about one of the citizens
 
 ![screencapture-localhost-3001-employee-internal-2023-07-01-17_50_01](https://github.com/osama-maree/graduation-project/assets/108696087/73d168ec-ea67-4b25-8903-d37933c6f2c2)
 -
 
----
-
-- When you click View
+1.1 When you click View
   
 ![Screenshot 2023-07-01 174702](https://github.com/osama-maree/graduation-project/assets/108696087/53a63e65-930f-4936-8991-6dee645b1c70)
 -
 
----
-
-- Inquiry from the Ministry of Foreign Affairs
+2. Inquiry from the Ministry of Foreign Affairs
 
 ![Screenshot 2023-07-01 175144](https://github.com/osama-maree/graduation-project/assets/108696087/55f52f44-394b-42f9-bc62-9bb788146ed4)
 -
 
-- Inquiry from the Ministry of Finance
+3. Inquiry from the Ministry of Finance
 
 ![Screenshot 2023-07-01 175244](https://github.com/osama-maree/graduation-project/assets/108696087/2aaf3124-46df-47cd-b60d-b8cd31210b0f)
 -
 
-- We inquire from the municipality about two things
+4. We inquire from the municipality about two things
 
 ![Screenshot 2023-07-01 175342](https://github.com/osama-maree/graduation-project/assets/108696087/384d33a7-1331-4336-9eef-c00f9cbaa49b)
 -
 
----
-
-1. First, to inquire about land
+4.1 First, to inquire about land
  
 ![Screenshot 2023-07-01 175536](https://github.com/osama-maree/graduation-project/assets/108696087/63e87f49-db61-4f2e-a7c9-19f33c537482)
 -
 
-2. Secondly, to inquire about a clearance
+4.2 Secondly, to inquire about a clearance
 
 ![Screenshot 2023-07-01 175732](https://github.com/osama-maree/graduation-project/assets/108696087/4e3bb2df-4c31-47ce-b67f-f7d1855eab75)
 -
 
----
-
-- When inquiring from the Area Department
+5. When inquiring from the Area Department
 
 ![Screenshot 2023-07-01 175819](https://github.com/osama-maree/graduation-project/assets/108696087/400ba577-e29d-4d0b-8165-7eb6ec291829)
 -
 
----
-
-- When inquiring from the Sharia Court
+6. When inquiring from the Sharia Court
   
 ![Screenshot 2023-07-01 175851](https://github.com/osama-maree/graduation-project/assets/108696087/710d04ac-dadc-43c0-b9e7-a7a1477a25c3)
 -
@@ -372,8 +362,6 @@ And so on for all of these movements
 
 ![Screenshot 2023-07-01 180405](https://github.com/osama-maree/graduation-project/assets/108696087/69aac108-f912-49fb-b835-c05c76e65409)
 -
-
----
 
 1. First, you can create an account from here
 
