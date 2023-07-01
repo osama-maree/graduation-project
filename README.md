@@ -101,28 +101,41 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 
 ![Screenshot 2023-06-22 123829](https://github.com/osama-maree/graduation-project/assets/108696087/59b0fdce-b2e2-4bc1-812a-e5bd0421ae06)
 
+---
+
 - The code has been sent to my email
   
 ![Screenshot 2023-06-22 122910](https://github.com/osama-maree/graduation-project/assets/108696087/8108045e-2fa4-46b1-8855-2be8b63d93c4)
 ![Screenshot 2023-06-22 122956](https://github.com/osama-maree/graduation-project/assets/108696087/7cbc0d74-d7cd-42e8-b8ce-1522760bcd6a)
 
+---
+
 - You enter the code and the system will verify it
   
 ![Screenshot 2023-06-22 123037](https://github.com/osama-maree/graduation-project/assets/108696087/8425b941-f795-4f9c-8e8b-46ee8de3553d)
+
+---
 
 - If correct, the following screen will appear
   
 ![Screenshot 2023-06-22 123203](https://github.com/osama-maree/graduation-project/assets/108696087/51623b0d-5a34-4b1b-bac5-d909eb34d081)
 
+---
+
 - Here you can modify the password
 
 ![Screenshot 2023-06-22 123401](https://github.com/osama-maree/graduation-project/assets/108696087/c335bbff-4d2f-4ffb-ad94-93a7c4576af0)
+
+---
 
 > User Page
 
 - Home Page
 
 ![Screenshot 2023-06-22 124147](https://github.com/osama-maree/graduation-project/assets/108696087/cc476e02-1519-4424-8d4b-750854a2a5f2)
+---
+
+----
 
 - When you press the movement button, the following menu appears, and you can choose any operation you want to perform
 
