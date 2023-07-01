@@ -95,7 +95,7 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 
 ![Screenshot 2023-06-22 122625](https://github.com/osama-maree/graduation-project/assets/108696087/ab7fb595-2a26-4d3d-9ba9-dad8f9c95976)
 
-</hr>
+---
 
 - If you forget your password, you must enter your email to reset your password
 
