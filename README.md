@@ -138,7 +138,7 @@ For our project to be done, we plan to follow the Agile process model. Agile pro
 
 ---
 
-> User Page
+> First Actor -> User <-
 
 - Home Page
 
@@ -235,7 +235,7 @@ And so on for all of these movements
 
 ---
 
-> Employee
+> Second Actor -> Employee <-
 
 - Home page
 
@@ -371,6 +371,15 @@ And so on for all of these movements
 2. Secondly here you can edit a citizen account
 
 ![Screenshot 2023-07-01 180717](https://github.com/osama-maree/graduation-project/assets/108696087/f8ae3e07-c1cf-41f4-afe5-afeb5a85f060)
+-
+
+---
+
+> Third Actor -> Admin(Manager) <-
+
+- Home Page
+
+![screencapture-localhost-3001-Admin-2023-07-01-18_23_35](https://github.com/osama-maree/graduation-project/assets/108696087/89ba0309-2f05-4f1c-aaaa-4d08a91847bd)
 -
 
 ---
