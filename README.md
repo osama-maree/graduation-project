@@ -428,6 +428,14 @@ And so on for all of these movements
 https://github.com/osama-maree/graduation-project/assets/108696087/9ae269b3-1790-47b7-a908-eebf63c124ff
 -
 
+---
+---
+
+> Entity RelationShip
+
+![Entity RelationShip-Page-2 drawio](https://github.com/osama-maree/graduation-project/assets/108696087/bf1a428c-5bb9-4dce-a504-c7c4225d2038)
+-
+
 
 
 
