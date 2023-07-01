@@ -426,7 +426,6 @@ And so on for all of these movements
 1. Fake link check
    
 https://github.com/osama-maree/graduation-project/assets/108696087/9ae269b3-1790-47b7-a908-eebf63c124ff
--
 
 ---
 
